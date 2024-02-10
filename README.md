@@ -8,4 +8,7 @@ Each of the modules in this block has a GitHub repo where you can find the code 
 
 
 ## 2. Supporting materials
+A tutorial (in Spanish) on Flutter very focused in how to develop Flutter modules for the ecosystem:    
+[Flutter for the ecosystem](https://www.youtube.com/playlist?list=PLyAtSQhMsD4oNmhn-7U506Wyt6Txw0rWp)       
+
 
