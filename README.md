@@ -9,8 +9,8 @@ Each of the modules in this block has a GitHub repo where you can find the code 
 
 ## 2. Supporting materials
 A tutorial (in Spanish) on Flutter very focused in how to develop Flutter modules for the ecosystem:    
-[Flutter for the ecosystem](https://www.youtube.com/playlist?list=PLyAtSQhMsD4oNmhn-7U506Wyt6Txw0rWp)       
-The code developed in this tutorial can be found here: [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-tutoFlutter-blue.svg)](https://github.com/dronsEETAC/tutoFlutter)   
+[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-video_tutoFlutter-pink.svg)](https://www.youtube.com/playlist?list=PLyAtSQhMsD4oNmhn-7U506Wyt6Txw0rWp)       
+The code developed in this tutorial can be found here: [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-code_tutoFlutter-blue.svg)](https://github.com/dronsEETAC/tutoFlutter)   
 
 This is a collection of demos showing how a Flutter app can receive and show a videostream, using different technologies and tools.     
 
